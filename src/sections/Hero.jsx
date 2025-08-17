@@ -45,8 +45,7 @@ export const Hero = () => {
         >
           <div className="card min-h-[200px] flex items-center justify-center">
   <motion.img
-    src="/DSC_003.jpg"   // <-- put your image in `public/profile.jpg`
-    alt="Sumit Kumar"
+    img src={`${import.meta.env.BASE_URL}DSC_003.jpg`} alt="Profile" 
     className="w-55 h-55 rounded-full shadow-lg border-4 border-white object-cover"
     initial={{ opacity: 0, scale: 0.9 }}
     animate={{ opacity: 1, scale: 1 }}
