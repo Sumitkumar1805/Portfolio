@@ -1,4 +1,9 @@
-# Sumit Kumar • Modern Portfolio (Vite + Tailwind + Framer Motion)
+# 🚀 Sumit Kumar • Modern Portfolio  
+
+A modern developer portfolio built with **Vite + React + Tailwind CSS + Framer Motion**.  
+Live Demo 👉 [sumitkumar1805.github.io/Portfolio](https://sumitkumar1805.github.io/Portfolio/)
+
+---
 
 ## Run locally
 ```bash
