@@ -1,6 +1,6 @@
-# 🚀 Sumit Kumar • Modern Portfolio  
+#  Sumit Kumar •  Portfolio  
 
-A modern developer portfolio built with **Vite + React + Tailwind CSS + Framer Motion**.  
+Portfolio built with **Vite + React + Tailwind CSS + Framer Motion**.  
 Live Demo 👉 [sumitkumar1805.github.io/Portfolio](https://sumitkumar1805.github.io/Portfolio/)
 
 ---
